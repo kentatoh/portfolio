@@ -1,0 +1,30 @@
+.content-container {
+  width: 65%;
+  margin: 0 auto;
+}
+
+.project-page-content {
+  color: #3d5a80;
+}
+.project-page-header {
+  font-size: 36px;
+  margin: 0 auto;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.project-page-img {
+  width: 50%;
+  padding: 10px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 8px;
+}
+
+.project-page-para {
+  width: 70%;
+  margin: 0 auto;
+  padding: 20px;
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif;
+}
